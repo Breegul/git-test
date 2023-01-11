@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Now this text is werds instead.
 Here are some other words.
+=======
+Now this text is words instead.
+Here are some different words.
+>>>>>>> conflict
 This commit adds to both files.
