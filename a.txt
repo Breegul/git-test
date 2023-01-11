@@ -1,2 +1,3 @@
 Now this text is words instead.
-Here are some more words
+Here are some more words.
+This commit adds to both files.
